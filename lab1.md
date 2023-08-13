@@ -1,5 +1,6 @@
 __ieng6__ __tutorial__ __login__:
-> First, search and download VScode to your system and open the program once installed. 
+> First, search and download VScode to your system and open the program once installed.
+> [vs code](https://code.visualstudio.com/download)
 ![Image](csp1.jpg)
 > Then, at the top of the page click **terminal** and open a new terminal.
 > Next, enter the command **ssh cs15lsp23xx@ieng6.ucsd.edu**, but replace "xx" with the two letters that are customly made for your account. 
